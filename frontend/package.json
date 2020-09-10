@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"webpack-dev-server --progress --colors --inline --hot",
-    "production":"webpack --progress -p"
+    "dev": "webpack-dev-server --progress --colors --inline --hot",
+    "production": "webpack --progress -p"
   },
   "keywords": [],
   "author": "",
@@ -28,6 +28,7 @@
     "react-router": "^5.2.0",
     "style-loader": "^1.2.1",
     "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   }
 }

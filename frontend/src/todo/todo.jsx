@@ -55,7 +55,7 @@ export default class Todo extends Component {
                     description={this.state.description}
                     handleChange={this.handleChange}
                     handleAdd={this.handleAdd}/>
-                <TodoList list={this.state.list} handleRemove={this.handleRemove} handleMarkAsDone={this.handleMarkAsDone} handleMarkAsPending={this.handleMarkAsDone}/>
+                <TodoList list={this.state.list} handleRemove={this.handleRemove} handleMarkAsDone={this.handleMarkAsDone} handleMarkAsPending={this.handleMarkAsPending}/>
             </div>
         )
     }

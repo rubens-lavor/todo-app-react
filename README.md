@@ -2,6 +2,7 @@ backend contruido com mongodb
 
 frontend com react e bootstrap para estilização
 
+## Comandos para rodar o projeto
 
 com o mongodb startado, entre no diretório do backend no terminal e digite o comando
 

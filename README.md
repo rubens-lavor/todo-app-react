@@ -6,11 +6,11 @@ frontend com react e bootstrap para estilização
 
 com o mongodb startado, entre no diretório do backend no terminal e digite o comando
 
-$npm init
+$ npm init
 
 para baixar os módulos e em seguida digite:
 
-$npm run dev
+$ npm run dev
 
 iniciando o servidor.
 

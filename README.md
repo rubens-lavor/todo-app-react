@@ -18,3 +18,9 @@ iniciando o servidor.
 Em seguida navegue para o diretório do frontend e digite:
 
 $num run dev
+
+
+## Tecnologias
+- react
+- bootstrap
+- mongodb
